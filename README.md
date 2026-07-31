@@ -38,7 +38,7 @@ Two authentication events were analyzed:
 
 **Logon Type:** 11
 
-**Account:** CAMI\camip
+**Account:** CAMI\user
 
 **Analysis:**
 
@@ -115,8 +115,8 @@ Detailed investigation:
 
 ### Event ID 4624 - Cached Interactive Logon (Logon Type 11)
 
-![Event 4624 Logon Type 11](screenshots/event-4624-logon-type-11.png)
+![Event 4624 Logon Type 11](screenshots/event-4624-logon-type-11.jpg)
 
 ### Event ID 4624 - Service Logon (Logon Type 5)
 
-![Event 4624 Logon Type 5](screenshots/event-4624-logon-type-5.png)
+![Event 4624 Logon Type 5](screenshots/event-4624-logon-type-5.jpg)

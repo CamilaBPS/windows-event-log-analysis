@@ -25,7 +25,7 @@ The objective is to determine whether authentication activity is expected or pot
 |---|---|
 | Event ID | 4624 |
 | Logon Type | 11 - Cached Interactive |
-| User | CAMI\camip |
+| User | CAMI\user |
 | Account Domain | MicrosoftAccount |
 | Date/Time | 24-07-2026 18:40:34 |
 | Workstation Name | CAMI |
@@ -36,7 +36,7 @@ The objective is to determine whether authentication activity is expected or pot
 
 ## Analysis
 
-The event shows a successful authentication performed by the user account CAMI\camip.
+The event shows a successful authentication performed by the user account CAMI\user.
 
 The Logon Type 11 indicates a Cached Interactive Logon, meaning Windows authenticated the user using locally cached credentials.
 
