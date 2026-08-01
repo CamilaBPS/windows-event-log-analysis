@@ -21,6 +21,14 @@ The goal was to analyze Windows Security Event Logs, identify successful authent
 
 ---
 
+## Investigation Workflow
+
+The following diagram summarizes the methodology used to analyze a Windows authentication event.
+
+![Windows Authentication Investigation Workflow](diagrams/windows-authentication-investigation.drawio.png)
+
+---
+
 ## Environment
 
 - Operating System: Windows
